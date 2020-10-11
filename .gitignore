@@ -1,1 +1,2 @@
-complex-numbers/bash.exe.stackdump
+*.stackdump
+__pycache__
